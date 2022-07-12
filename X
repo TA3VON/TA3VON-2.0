@@ -500,7 +500,7 @@ Parkour.TextSize = 20.000
 
 Parkour.MouseButton1Down:connect(function()
 
-    loadstring(game:Http('https://pastebin.com/raw/xX3uPyWC'))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/xX3uPyWC'))()
 
     end)
 
