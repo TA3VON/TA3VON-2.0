@@ -440,7 +440,7 @@ Car.Size = UDim2.new(0, 206, 0, 29)
 
 Car.Font = Enum.Font.SourceSans
 
-Car.Text = "Fe Human Car"
+Car.Text = "PowerOfFlame"
 
 Car.TextColor3 = Color3.fromRGB(226, 147, 36)
 
@@ -448,7 +448,7 @@ Car.TextSize = 20.000
 
 Car.MouseButton1Down:connect(function()
 
-    loadstring(game:HttpGet('https://pastebin.com/raw/YbEir502'))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/P2YJwv0m'))()
 
     end)
 
